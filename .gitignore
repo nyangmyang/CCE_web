@@ -1,0 +1,33 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Micromamba or conda virtual envs
+micromamba/
+env/
+.venv/
+*.env
+
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Excel or output result files
+*.xlsx
+*.xlsm
+*.xls
+result/
+
+# Shell script logs or temp
+*.log
+
+# dotenv / local secrets
+.env
